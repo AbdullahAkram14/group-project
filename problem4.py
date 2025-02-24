@@ -10,7 +10,3 @@ def fizz_buzz(n):
      else:
         answer.append(str(i))
     return answer
-            
-if __name__ == "__main__":
-    n = 5
-    print(fizz_buzz(n))
